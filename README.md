@@ -59,4 +59,4 @@ The notebook generates various visualizations, including:
 Contributions to this project are welcome. If you encounter any issues or have suggestions, please feel free to create an issue or submit a pull request.
 
 ## License
-This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
