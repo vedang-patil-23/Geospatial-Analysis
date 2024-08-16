@@ -16,7 +16,7 @@ To run the notebook, you need to have Python installed along with the necessary 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/H1B_Geospatial.git
+   git clone https://github.com/vedang-patil-23/Geospatial-Analysis.git
    cd H1B_Geospatial
    ```
 
