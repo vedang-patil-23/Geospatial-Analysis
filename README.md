@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook focused on analyzing H1B visa data u
 ## Dataset
 - Downloaded two publically available dataset from kaggle & merged them.
 - Performed feature selection & determined thst optimal results can be determined wgen CASE_STATUS was either CERTFIED or DENIED.
-- Couldn't host on github since it allows only 25MB file, so hosted on google drive: https://drive.google.com/file/d/19CA6yXQ37SQjhRgjJWWXt1yeIkZ0cJsJ/view?usp=sharing
+- Couldn't host on github since it allows only 25MB file & the dataset is 123.9 MB, so hosted on google drive: https://drive.google.com/file/d/19CA6yXQ37SQjhRgjJWWXt1yeIkZ0cJsJ/view?usp=sharing
 
 ## Features
 - **Geospatial Analysis:** Visualization of H1B visa data across different states, focusing on metrics like prevailing wage and case status.
