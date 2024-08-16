@@ -4,9 +4,10 @@
 This repository contains a Jupyter Notebook focused on analyzing H1B visa data using geospatial techniques. The primary goal is to explore and visualize the geographic distribution of H1B visa applications, including the prevailing wages and case statuses across different states in the United States.
 
 ## Dataset
-- Downloaded two publically available dataset from kaggle & merged them.
-- Performed feature selection & determined thst optimal results can be determined wgen CASE_STATUS was either CERTFIED or DENIED.
-- Couldn't host on github since it allows only 25MB file & the dataset is 123.9 MB, so hosted on google drive: https://drive.google.com/file/d/19CA6yXQ37SQjhRgjJWWXt1yeIkZ0cJsJ/view?usp=sharing
+- Merged two publicly available datasets from Kaggle.
+- Selected features, finding optimal results when `CASE_STATUS` was either CERTIFIED or DENIED.
+- Hosted the 123.9 MB dataset on Google Drive (GitHub's limit is 25 MB): [Google Drive Link](https://drive.google.com/file/d/19CA6yXQ37SQjhRgjJWWXt1yeIkZ0cJsJ/view?usp=sharing)
+- Included an additional dataset of U.S. states with their latitude and longitude coordinates.
 
 ## Features
 - **Geospatial Analysis:** Visualization of H1B visa data across different states, focusing on metrics like prevailing wage and case status.
